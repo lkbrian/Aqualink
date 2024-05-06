@@ -1606,3 +1606,14 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+.services_row{
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+
+  width: 100vw;
+}
+._300{
+  width: 350px;
+  margin-bottom: 20px;
+}
